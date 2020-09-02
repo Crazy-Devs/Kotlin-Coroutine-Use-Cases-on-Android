@@ -18,8 +18,4 @@ class ExceptionHandlingViewModel(
     fun showResultsEvenIfChildCoroutineFails() {
 
     }
-
-    fun showResultsEvenIfChildCoroutineFailsRunCatching() {
-
-    }
 }
